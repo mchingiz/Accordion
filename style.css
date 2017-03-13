@@ -1,0 +1,17 @@
+.main{
+    width: 500px;
+    margin: 25px auto;
+}
+
+.section h3{
+    margin: 0;
+    border: 1px solid black;
+    border-radius: 5px;
+    background: #ccc;
+    padding: 10px 0 10px 20px;
+}
+
+.section p{
+    margin: 15px 20px;
+    /*visibility: hidden;*/
+}
